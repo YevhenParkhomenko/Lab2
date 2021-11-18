@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="" ?>
+<softwareList type="root">
+    <software id="1">
+        <title>Miracle</title>
+        <annotation>That's a miracle!</annotation>
+        <type>Programming Software</type>
+        <version>1.0</version>
+        <author>The C++ Wizard777</author>
+        <termsOfUse>Be not afraid!</termsOfUse>
+        <location>Somewhere on disk D</location>
+    </software>
+    <software id="2">
+        <title>Miracle</title>
+        <annotation>That's a miraculous miracle!</annotation>
+        <type>Programming Software</type>
+        <version>2.0</version>
+        <author>The C++ Wizard777</author>
+        <termsOfUse>Tread carefully</termsOfUse>
+        <location>Somewhere on disk C</location>
+    </software>
+    <software id="3">
+        <title>Miraclen't</title>
+        <annotation>No more miracles!</annotation>
+        <type>Application Software</type>
+        <version>3.0</version>
+        <author>The C++ Wizard777's best friend</author>
+        <termsOfUse>There is no need to use it</termsOfUse>
+        <location>Somewhere in the woods</location>
+    </software>
+</softwareList>

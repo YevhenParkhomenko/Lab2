@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="" ?>
+<softwareList type="root">
+<software id="0">
+<title>Miraclen't</title>
+<annotation>No more miracles!</annotation>
+<type>Application Software</type>
+<version>3.0</version>
+<author>The C++ Wizard777's best friend</author>
+<termsOfUse>Miraclen't</termsOfUse>
+<location>Somewhere in the woods</location>
+</software>
+</softwareList>
